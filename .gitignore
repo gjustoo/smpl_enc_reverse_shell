@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+README.md
+.vscode/settings.json
+encrypt
